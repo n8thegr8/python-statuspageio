@@ -9,11 +9,11 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 setup(
     name='statuspageio',
-    version='0.0.1',
+    version='0.0.2',
     description='StatusPage.io API V1 library client for Python',
     long_description=README,
-    author='GameSparks developers',
-    url='https://github.com/gamesparks/python-statuspageio',
+    author='Nate Maxfield',
+    url='https://github.com/n8thegr8/python-statuspageio',
     license='MIT',
     packages=['statuspageio'],
     install_requires=['requests', 'munch'],
