@@ -46,9 +46,13 @@ Build a client
 
 .. code:: python
 
-    client = statuspageio.Client(api_key='<YOUR_PERSONAL_API_KEY>', page_id=<YOUR_PERSONAL_PAGE_ID')
+    client = statuspageio.Client(api_key='<YOUR_PERSONAL_API_KEY>', page_id='<YOUR_PERSONAL_PAGE_ID>')
+
 or
-    client = statuspageio.Client(api_key='<YOUR_PERSONAL_API_KEY>', page_id=<YOUR_PERSONAL_PAGE_ID',organization_id=<YOUR_PERSONAL_ORGANIZATION_ID)
+
+.. code:: python    
+
+    client = statuspageio.Client(api_key='<YOUR_PERSONAL_API_KEY>', page_id='<YOUR_PERSONAL_PAGE_ID>',organization_id='<YOUR_PERSONAL_ORGANIZATION_ID>')
 
 
 Client Options
