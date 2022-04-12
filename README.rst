@@ -13,7 +13,7 @@ Statuspageio package can be installed either via pip:
 
 .. code:: bash
 
-    $ pip install --upgrade git+https://github.com/n8thegr8/python-statuspageio
+    $ pip install git+https://github.com/n8thegr8/python-statuspageio
 
 
 
