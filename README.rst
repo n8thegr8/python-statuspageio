@@ -1,5 +1,5 @@
 python-statuspageio
-==============
+===================
 
 StatusPage.oi  API V1 library client for Python. Based on the documentaion from https://doers.statuspage.io/api/v1/
 
