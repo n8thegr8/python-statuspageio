@@ -8,7 +8,7 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 
 setup(
-    name='statuspage_io',
+    name='xandr-statuspageio',
     version='0.0.5',
     description='StatusPage.io API V1 library client for Python',
     long_description=README,
